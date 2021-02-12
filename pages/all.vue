@@ -10,7 +10,7 @@
 
 <script>
 import Contents from '~/components/Contents'
-import { db, firebase } from '~/plugins/firebase'
+// import { db, firebase } from '~/plugins/firebase'
 
 export default {
   head() {
