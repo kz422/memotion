@@ -11,31 +11,24 @@ SNSなどでは言えない不平不満、悩み、言いたいこと、など�
 
 ## Feature
 
-- 匿名にてメッセージの書き込み
-- 書き込みは24時間で自動的に削除
-- プロフィールの編集,保存,削除,テーマ変更  
-- プロフィールの編集,保存,削除,テーマ変更  
+- 匿名にてメッセージの書き込み  
+- カテゴリごとの書き込み表示
+- 書き込みは24時間で自動的に削除  
+- 自身の書き込みは手動でも削除可能  
+- ダークモードのオンオフ
 
-- LogIn  
-↪︎LogIn with social account（Google,Twitter,Facebook）,LogIn with eMail + PW
-- edit profile,save,delete,change themes  
-↪︎upload images,sort items with drag,delete user...etc
-- create your own QR code
+- Post anonymously  
+- Index by post category
+- Post will be deleted automatically after 24h
+- Own post can be delete by manually
+- Switch dark-mode
 
 ## Usage
 
-1. アカウント作成orログイン  
-(Create an account or Login)
-2. 必要事項を入力し保存  
-(Edit profile and save)
-3. 自分のページができたら共有！ 
-(Then,Let's share！)
+1. Push [+]
+2. Enter name,title,comment
+3. Just post!!
 
-## SpecialThanks(libraries)
-- [arctxt](https://www.npmjs.com/package/arctxt)
-- [qrcode](https://www.npmjs.com/package/qrcode)
-- [vue-scrollto](https://www.npmjs.com/package/vue-scrollto)
-- [vuedraggable](https://www.npmjs.com/package/vuedraggable)
 
 ## 作者
 
